@@ -1,0 +1,12 @@
+1. To establish metrics and carefully monitor the utilization of AWS resources on a wide scale by making use of highly sophisticated Amazon CloudWatch.
+2. Taking weekly and monthly server(EC2) , RDS backups are done by me using snapshot and AMI.
+3. Creating and managing VPC, URL proxies, as well as Bastion Hosts.
+4. Troubleshooting the issues in production environment and providing the fix.
+5. Establishing integration between  git and Jenkins using git webbooks to trigger the job automatically.
+6. Creating users and providing the requested permissions using IAM Policies.
+7. Configured the Load Balancer to distribute the network traffic among the server instances or targets.
+8. Created and configured the auto scaling groups to increase the availability of the application.
+9. Installing and configuring the tomcat application server to host the application.
+10. integrating the antifactory management nexus with Jenkins.
+11. creating the pipeline jobs using declarative pipeline.
+12. creating and managing nodes in Jenkins to distribute the jobs which enhance the performance.
